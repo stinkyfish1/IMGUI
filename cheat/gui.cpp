@@ -244,7 +244,7 @@ void gui::Render() noexcept
 	ImGui::SetNextWindowPos({ 0, 0 });
 	ImGui::SetNextWindowSize({ WIDTH, HEIGHT });
 	ImGui::Begin(
-		"tyron er topG",
+		"fortnite er best game",
 		&isRunning,
 		ImGuiWindowFlags_NoResize |
 		ImGuiWindowFlags_NoSavedSettings |
@@ -252,7 +252,7 @@ void gui::Render() noexcept
 		ImGuiWindowFlags_NoMove
 	);
 	
-	ImGui::Button("klikk hvis gay");
+	ImGui::Button("random knapp");
 	ImGui::SliderInt("Strength", &sliderValue, 0, 500);
 
 
