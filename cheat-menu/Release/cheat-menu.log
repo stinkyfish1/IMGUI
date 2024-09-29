@@ -1,0 +1,15 @@
+﻿  gui.cpp
+  main.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Generating code
+  1352 of 1354 functions (99.9%) were compiled, the rest were copied from previous compilation.
+    31 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  cheat-menu.vcxproj -> C:\Users\Nikiw\Desktop\VISUAL STUDIO CODE\borderless-imgui-window-main\imgui-slider\Release\cheat-menu.exe
